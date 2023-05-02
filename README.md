@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sheetal Sharma<br>🌱 I’m currently learning JavaScript, MongoDB, NodeJS, Express<br>📫 How to reach me sheetalshar3010@gmail.com<br>💬 Ask me about Node Backend, HTML, CSS, and JavaScript<br>👨‍💻 All of my projects are available in My portfolio<br>📄 Know about my experiences resume link<br><br>
+Hi 👋, I'm Sheetal Sharma<br>🌱 I’m currently learning JavaScript, MongoDB, NodeJS, Express<br>📫 How to reach me sheetalshar3010@gmail.com<br>💬 Ask me about Node Backend, HTML, CSS, and JavaScript<br>👨‍💻 All of my projects are available in <a href="https://SheetlSh3010.github.io">My portfolio</a><br>📄 Know about my experiences resume link<br><br>
 
 
 ## 🌐 Socials:
